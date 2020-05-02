@@ -1,5 +1,7 @@
 # MJPEG Video Streaming for Unity
 
+[Watch on Youtube](https://youtu.be/xKur_1pkDhg)
+
 <img src="MJPEGVideoStreaming-Unity.gif" width="50%">
 
 ## Tested Environment
