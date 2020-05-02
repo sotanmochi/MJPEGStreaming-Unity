@@ -13,8 +13,8 @@ Assets/Plugins/*
 # ============================================================== #
 # Project specific assets and my own assets (Not ignored assets)
 # ============================================================== #
-# !Assets/MJPEGVideoStreaming/
-# !Assets/MJPEGVideoStreaming.meta
+!Assets/MJPEGVideoStreaming/
+!Assets/MJPEGVideoStreaming.meta
 
 # ======================================= #
 # Third party assets (Not ignored assets)
