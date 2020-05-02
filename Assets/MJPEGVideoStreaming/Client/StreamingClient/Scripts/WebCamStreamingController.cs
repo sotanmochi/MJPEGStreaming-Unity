@@ -15,6 +15,7 @@ namespace MJPEGVideoStreaming.Client
         [SerializeField] RawImage _rawImage;
         [SerializeField] Dropdown _nodeSelectionDropdown;
 
+        [SerializeField] Text _webcamTextureSize;
         [SerializeField] Text _clientIdText;
         [SerializeField] InputField _serverAddress;
         [SerializeField] InputField _serverPort;
@@ -97,6 +98,7 @@ namespace MJPEGVideoStreaming.Client
                 _skyboxMaterial.mainTexture = _webCamTexture;
             }
 
+            _webcamTextureSize.text = "Texture size : " + _webCamTexture.width + "x" + _webCamTexture.height;
             Debug.Log("WebCamTexture: " + _webCamTexture.width + "x" + _webCamTexture.height);
 
             _webCamStreamingService.Initialize(_webCamTexture, _textureSteamingClient, _intervalTimeMillisec);
