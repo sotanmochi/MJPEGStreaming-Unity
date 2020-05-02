@@ -1,5 +1,7 @@
 # MJPEG Video Streaming for Unity
 
+<img src="MJPEGVideoStreaming-Unity.gif" width="50%">
+
 ## Tested Environment
 - Unity 2018.4.21f1
 - Windows 10
