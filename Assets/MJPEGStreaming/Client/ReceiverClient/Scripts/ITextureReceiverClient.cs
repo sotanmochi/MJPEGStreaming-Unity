@@ -1,5 +1,5 @@
 ﻿
-namespace MJPEGVideoStreaming.Client
+namespace MJPEGStreaming.Client
 {
     public interface ITextureReceiverClient
     {

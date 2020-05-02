@@ -3,7 +3,7 @@ using LiteNetLib;
 using LiteNetLib.Utils;
 using LiteNetLibExtension;
 
-namespace MJPEGVideoStreaming.Client.LiteNetLib
+namespace MJPEGStreaming.Client.LiteNetLib
 {
     public class TextureStreamingClientLogic : MonoBehaviour, ITextureStreamingClient
     {

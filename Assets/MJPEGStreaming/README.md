@@ -32,7 +32,7 @@ This project is licensed under the MIT License excluding third party assets.
 ### Upload a custom server build to GameLift
 AWS CLIを使ってサーバービルドをGameLiftにアップロードする
 ```
-aws gamelift upload-build --name MJPEGVideoStreamingServer --build-version v1.0.0 --build-root ./MJPEGVideoStreaming-Unity/App/StreamingServerLinuxBuild --operating-system AMAZON_LINUX --region ap-northeast-1
+aws gamelift upload-build --name MJPEGStreamingServer --build-version v1.0.0 --build-root ./MJPEGStreaming-Unity/App/StreamingServerLinuxBuild --operating-system AMAZON_LINUX --region ap-northeast-1
 ```
 
 ### Create a fleet

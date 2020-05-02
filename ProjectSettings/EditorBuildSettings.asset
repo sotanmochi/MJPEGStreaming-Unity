@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/MJPEGVideoStreaming/Server/MJPEGStreamingServer.unity
+    path: Assets/MJPEGStreaming/Server/MJPEGStreamingServer.unity
     guid: 4f2300ff554866243822f639839f5d9d
   - enabled: 0
-    path: Assets/MJPEGVideoStreaming/Client/StreamingClient/MJPEGSteamingClient.unity
+    path: Assets/MJPEGStreaming/Client/StreamingClient/MJPEGSteamingClient.unity
     guid: 84a66c08a2acc234ca93e85c680b49db
   - enabled: 1
-    path: Assets/MJPEGVideoStreaming/Client/ReceiverClient/MJPEGReceiverClient.unity
+    path: Assets/MJPEGStreaming/Client/ReceiverClient/MJPEGReceiverClient.unity
     guid: aa5222bdf83a335418bd70b43765112a
   m_configObjects: {}

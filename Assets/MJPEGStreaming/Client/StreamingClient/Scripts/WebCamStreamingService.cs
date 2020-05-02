@@ -3,7 +3,7 @@ using UnityEngine;
 using UniRx;
 using UniRx.Triggers;
 
-namespace MJPEGVideoStreaming.Client
+namespace MJPEGStreaming.Client
 {
     public class WebCamStreamingService : MonoBehaviour
     {

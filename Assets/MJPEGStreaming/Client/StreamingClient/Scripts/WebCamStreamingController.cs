@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace MJPEGVideoStreaming.Client
+namespace MJPEGStreaming.Client
 {
     public class WebCamStreamingController : MonoBehaviour
     {
